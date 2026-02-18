@@ -1,0 +1,42 @@
+{
+  "home": {
+    "keywords": ["home", "main", "landing"],
+    "content": "Join 500+ grads celebrating milestones in style..."
+  },
+  "categories": {
+    "keywords": ["categories", "shop", "products"],
+    "content": "Apparels, Caps, Scarfs, Bracelets, Sashes..."
+  },
+  "apparels": {
+    "keywords": ["apparels", "shirts", "t-shirts"],
+    "content": "KSH 799 – Timeless apparel for graduates..."
+  },
+  "caps": {
+    "keywords": ["caps", "hat", "graduation cap"],
+    "content": "KSH 699 – Celebrate your milestone with stylish caps..."
+  },
+  "scarfs": {
+    "keywords": ["scarfs", "scarf"],
+    "content": "KSH 399 – Elegant scarves to remember your journey..."
+  },
+  "bracelets": {
+    "keywords": ["bracelets", "jewelry", "accessory"],
+    "content": "KSH 299 – Silver bracelet, unisex, highly comfortable..."
+  },
+  "sashes": {
+    "keywords": ["sashes", "graduation sash"],
+    "content": "Coming soon – Thank you for bearing with us..."
+  },
+  "about_us": {
+    "keywords": ["about", "story", "mission", "vision"],
+    "content": "MEMORIES is a luxury-inspired fashion brand born from the idea that every milestone deserves to be remembered in style..."
+  },
+  "contact": {
+    "keywords": ["contact", "email", "phone", "whatsapp"],
+    "content": "We’d love to hear from you. Email: infomemorybrand@gmail.com, Phone/WhatsApp: +254 721 299 720..."
+  },
+  "sign_up": {
+    "keywords": ["sign up", "join", "register", "community"],
+    "content": "Sign Up for MEMORIES: Full Name, Email, Phone Number, Town, Achievement/Milestone..."
+  }
+}
