@@ -52,7 +52,7 @@ exports.handler = async (event) => {
   }
 
   const page = findBestPage(question);
-
+]]]
   return {
     statusCode: 200,
     body: JSON.stringify({
